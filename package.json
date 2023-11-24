@@ -14,7 +14,8 @@
     "mongoose": "^5.13.21",
     "morgan": "~1.9.1",
     "readline": "^1.3.0",
-    "seedgoose": "^2.0.2"
+    "seedgoose": "^2.0.2",
+    "nodemon": "^2.0.15"
   },
   "devDependecies": {
     "hbs": "^4.2.0",
