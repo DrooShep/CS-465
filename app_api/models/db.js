@@ -62,4 +62,6 @@ process.on('SIGTERM', () => {
 
 connect();
 
-require('./travlr')
+// bring in the Mongoose schema
+require('./travlr');
+require('./user');
